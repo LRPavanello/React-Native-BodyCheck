@@ -1,57 +1,52 @@
-# BodyCheck - Calculadora de IMC
+# BodyCheck - BMI Calculator
 
-BodyCheck é um aplicativo desenvolvido em React Native utilizando Expo, projetado para calcular o Índice de Massa Corporal (IMC) de forma simples e eficiente.
+BodyCheck is an application developed in React Native using Expo, designed to calculate Body Mass Index (BMI) in a simple and efficient way.
 
 <div align="center">
 ![Body Check App]
-
 </div>
 
-
-
 <div align="center">
-
 <img src="bodycheck.png" alt="LRP" width="auto"  height="auto" />
 </div>
 
-## Funcionalidades
+## Functionalities
+ 
+- **BMI Calculation:** Determine your Body Mass Index by entering your height and weight.
+- **Health Assessment:** Receive a health assessment based on your calculated BMI.
 
-- **Cálculo de IMC:** Determine seu Índice de Massa Corporal inserindo sua altura e peso.
-- **Avaliação de Saúde:** Receba uma avaliação de saúde com base no seu IMC calculado.
+## Technologies Used
 
-## Tecnologias Utilizadas
+- **React Native:** Used for user interface development.
+- **Expo:** Facilitates the application creation and testing process.
+- **React Native Components:** Implementation of three essential components for the application structure.
 
-- **React Native:** Utilizado para o desenvolvimento da interface do usuário.
-- **Expo:** Facilita o processo de criação e teste do aplicativo.
-- **React Native Components:** Implementação de três componentes essenciais para a estrutura do aplicativo.
+## How to use
 
-## Como Usar
+To use the BodyCheck app:
 
-Para utilizar o aplicativo BodyCheck:
+1. Make sure you have Expo installed on your mobile device.
+2. Clone this repository: `git clone https://github.com/your-user/BodyCheck.git`
+3. Navigate to the project directory: `cd BodyCheck`
+4. Install dependencies: `npm install` or `yarn install`
+5. Start the application: `expo start`
 
-1. Certifique-se de ter o Expo instalado no seu dispositivo móvel.
-2. Clone este repositório: `git clone https://github.com/seu-usuario/BodyCheck.git`
-3. Navegue até o diretório do projeto: `cd BodyCheck`
-4. Instale as dependências: `npm install` ou `yarn install`
-5. Inicie o aplicativo: `expo start`
+This will open Expo Developer Tools in your browser. Use your mobile device with the Expo app installed to scan the QR code and open the BodyCheck app.
 
-Isso abrirá o Expo Developer Tools no seu navegador. Use o seu dispositivo móvel com o aplicativo Expo instalado para escanear o código QR e abrir o aplicativo BodyCheck.
+## Project Structure
 
-## Estrutura do Projeto
+The project is structured as follows:
 
-O projeto está estruturado da seguinte forma:
+- **`/src`**: Contains components and files related to application logic.
+  - **`/src/components`**: Essential components for the user interface.
 
-- **`/src`**: Contém os componentes e arquivos relacionados à lógica do aplicativo.
-  - **`/src/components`**: Componentes essenciais para a interface do usuário.
+## Contributing
 
-## Contribuindo
+Contributions are welcome! Feel free to open an issue or submit a pull request.
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
-## Autor
+## Author
 
 [Luis Renan Pavanello](https://github.com/luisrpavanelli)
 
-## Licença
-
-Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).
+## License
+This project is licensed under the MIT License. [Licença MIT](https://opensource.org/licenses/MIT).
