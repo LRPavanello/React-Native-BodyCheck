@@ -4,7 +4,9 @@ BodyCheck é um aplicativo desenvolvido em React Native utilizando Expo, projeta
 
 <div align="center">
 ![Body Check App]
+</div>
 
+<div align="center">
 <img src="bodycheck.png" alt="LRP" width="auto"  height="auto" />
 </div>
 
