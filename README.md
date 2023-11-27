@@ -2,7 +2,9 @@
 
 BodyCheck é um aplicativo desenvolvido em React Native utilizando Expo, projetado para calcular o Índice de Massa Corporal (IMC) de forma simples e eficiente.
 
-![Body Check App]<img src="bodycheck.png" alt="LRP" width="auto"  height="auto" />
+![Body Check App]
+
+<img src="bodycheck.png" alt="LRP" width="auto"  height="auto" />
 
 
 ## Funcionalidades
