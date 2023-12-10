@@ -1,7 +1,7 @@
 import React from 'react';
 import { StyleSheet,  View } from 'react-native';
-import Word from '/src/components/Word/'
-import Form from '/src/components/Form/'
+import Word from './src/components/Word/'
+import Form from './src/components/Form/'
 
 
 

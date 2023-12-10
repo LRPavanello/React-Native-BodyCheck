@@ -70,7 +70,7 @@ function validationImc(){
          style={styles.buttonCalculator}
          onPress={() => validationImc()}>
          
-          <text style={styles.textbuttonCalculator}>{TextButton}</text>
+          <Text style={styles.textbuttonCalculator}>{TextButton}</Text>
 
          </TouchableOpacity>
         </View>

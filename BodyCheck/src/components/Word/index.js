@@ -5,7 +5,7 @@ import styles from "./style"
 export default function Word(){
   return(
     <View style={styles.boxTitle}>
-     <Text style={styles.textTitle}>BodyCheck</Text>
+       <Text style={styles.textTitle}>BodyCheck</Text>
     </View>
   );  
 }

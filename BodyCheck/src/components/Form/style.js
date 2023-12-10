@@ -20,7 +20,7 @@ const styles = StyleSheet.create({
   color:"#000000",
   fontSize:18,
   paddingLeft:20,
-  fontWeight:"Bold",
+  fontWeight:"bold",
  },
  input:{
   width:"90%",
@@ -41,7 +41,7 @@ const styles = StyleSheet.create({
   justifyContent: "center", 
   alignItems:"center",
   widht:"90%",
-  backgroundColor:"#4169E1",
+  backgroundColor:"#0e4ae3",
   paddingTop:14,
   paddingBottom:14,
   marginLeft:12,
@@ -50,7 +50,7 @@ const styles = StyleSheet.create({
  errorMessage:{
    fontSize:12,
    color:"red",
-   fontWeight:"Bold",
+   fontWeight:"bold",
    paddingLeft:20, 
  },
  exhibitionResult:{
